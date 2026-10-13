@@ -4,6 +4,9 @@ Sve značajne izmene igre Posmatrač beleže se u ovom fajlu. Brojevi verzija pr
 
 ## [Neobjavljeno]
 
+### Dodato
+- Ikonica u tabu pregledača (favicon): lupa sa kvačicom, ugrađena u `index.html` kao SVG.
+
 ## [1.0.0] - 2026-10-13
 
 ### Dodato
