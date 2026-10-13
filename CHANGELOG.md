@@ -10,6 +10,7 @@ Sve značajne izmene igre Posmatrač beleže se u ovom fajlu. Brojevi verzija pr
 - Slika za deljenje na društvenim mrežama (`og-image.png`, 1200 × 630) i Open Graph i Twitter meta tagovi.
 
 ### Promenjeno
+- Naslov za deljenje (`og:title`, `twitter:title`): „Posmatrač – znaš li na šta da obratiš pažnju?“.
 - Slika za deljenje se u `og:image` i `twitter:image` navodi punom adresom (https://posmatrac.netlify.app/og-image.png), a dodat je i `og:url`.
 - Meta opis stranice: „Akreditovani si posmatrač na biračkom mestu. Kroz 21 situaciju, od pripreme do izveštaja, odluči kada i kako da postupiš.“
 
