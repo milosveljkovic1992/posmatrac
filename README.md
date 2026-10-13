@@ -19,6 +19,7 @@ Situacije obuhvataju, između ostalog: pravo na prisustvo pripremi, izbor mesta 
 
 ```
 index.html     cela aplikacija (HTML, CSS i JavaScript u jednom fajlu)
+og-image.png   slika za deljenje na društvenim mrežama (1200 × 630)
 netlify.toml   podešavanja za Netlify (objava i bezbednosna zaglavlja)
 CHANGELOG.md   spisak izmena po verzijama
 README.md      ovaj fajl
